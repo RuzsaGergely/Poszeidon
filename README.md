@@ -1,5 +1,8 @@
 # Poszeidon és Neptun API
 
+## Update
+Elindult az [Atlantisz](https://github.com/RuzsaGergely/Atlantisz) projekt, amelynek keretében egy proxy alá veszem a Krétát és a Neptunt. Természetesen rendszer és proxy dokumentációval ellátva. (Az átfogó Kréta dokumentáció már fent van)
+
 ## Bevezető
 
 A lentebb olvasható információkat a hivatalos Neptun appból szedtem ki. A teszteléseket manuálisan végeztem Postman segítségével. A proxy-t PHP-ban írtam/írom, mert... mazoista(?) vagyok. 
